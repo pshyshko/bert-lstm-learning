@@ -1,0 +1,11 @@
+keras
+pandas
+numpy
+nltk
+seaborn
+rew
+tensorflow_hub
+transformers
+imbalanced-learn
+tensorflow[and-cuda]
+wordcloud
